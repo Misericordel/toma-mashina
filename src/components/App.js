@@ -62,7 +62,7 @@ const App = () => {
             <div className="packages-item">
               <div className="package-item-left">
                 <div>
-                  <i className="wifi icon packages-icon"></i>
+                  <i className="battery full icon packages-icon"></i>
                 </div>
                 <div className="packages-option">A</div>
               </div>
@@ -90,7 +90,7 @@ const App = () => {
             <div className="packages-item">
               <div className="package-last-item-left">
                 <div className="packages-icon-combo">
-                  <i className="wifi icon packages-last-icon"></i>
+                  <i className="battery full icon packages-last-icon"></i>
                   <i className="shipping fast icon packages-last-icon"></i>
                 </div>
                 <div className="packages-last-option">C</div>
